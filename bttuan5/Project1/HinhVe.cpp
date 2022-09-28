@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-  cout << "CONFLICT 1";
+  cout << "CONFLICT";
 }
